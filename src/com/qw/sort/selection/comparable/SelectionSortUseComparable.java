@@ -1,6 +1,6 @@
 package com.qw.sort.selection.comparable;
 
-import com.qw.sort.selection.Student;
+import com.qw.sort.dao.Student;
 
 /*
 * 使用comparable 进行选择排序

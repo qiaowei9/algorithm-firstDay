@@ -1,4 +1,4 @@
-package com.qw.sort.selection;
+package com.qw.sort.dao;
 
 /*
 * 学生实体类
