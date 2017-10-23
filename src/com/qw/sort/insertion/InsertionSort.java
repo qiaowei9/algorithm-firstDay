@@ -4,7 +4,7 @@ package com.qw.sort.insertion;
 import com.qw.sort.util.SortTestHelper;
 
 /*
-* 插入排序
+* 插入排序  在近乎有序的数组使用时，效率高
 *   [8,6,2,3,1,7,5,4]
 *   1: [6,8,2,3,1,7,5,4]
 *   2： [2,6,8,3,1,7,5,4]
