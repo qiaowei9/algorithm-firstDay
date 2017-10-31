@@ -1,7 +1,9 @@
 package com.qw.sort.bubble;
 
 import com.qw.sort.util.SortTestHelper;
-
+/**
+ * 冒泡排序
+ * */
 public class BubbleSort {
 
     public static void sort(Comparable[] arr){
